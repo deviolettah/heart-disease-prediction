@@ -12,7 +12,7 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [Contributing](../CONTRIBUTING.md)
+- [Preview](#preview)
 - [Authors](#authors)
 
 
@@ -61,6 +61,10 @@ gui.py
 - Python - Programming Language
 - TensorFlow - Machine Learning Framework
 - PyQt - Python GUI
+
+## 🧐 Preview <a name = "preview"></a>
+
+![Screenshot](screenshot-app/pict.png)
 
 ## ✍️ Authors <a name = "authors"></a>
 
